@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samirDeyTechvariable
+- 👋 Hi, I’m @samirDey
 - 👀 I’m interested in Python,Javascript,kotlin,Java,Android SDK,IOT
 - 🌱 I’m currently learning react.js, fast api, and kotlin
 - 💞️ I’m looking to collaborate on anything uber cooool
